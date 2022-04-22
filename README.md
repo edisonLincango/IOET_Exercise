@@ -1,7 +1,7 @@
 # IOET Exercise
 IOET Exercise Payment Calculation
 
-After analyzing the exercise, it was decided to apply a DDD, and the following classes were identified:
+After analyzing the exercise, it was decided to apply domain-driven design (DDD), and the following classes were identified:
 
 ![UML class](https://user-images.githubusercontent.com/103289374/164787057-221dca11-f51b-4298-84b3-00b1b565bf5f.jpeg)
 
